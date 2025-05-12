@@ -1071,6 +1071,7 @@ https://listjs.com
 * [Peg.js](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
 * [lune](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 * [jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
+* [jqlite](https://github.com/Jay-Karia/jqlite) - The query language for JSON
 
 # Worth Reading
  
